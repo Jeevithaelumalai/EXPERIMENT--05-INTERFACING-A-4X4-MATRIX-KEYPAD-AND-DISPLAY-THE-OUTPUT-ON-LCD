@@ -340,7 +340,8 @@ else if(!col2)
 ```
 
 ## Output screen shots of proteus  :
- ![image](https://github.com/Jeevithaelumalai/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118708245/8fab8211-43f4-4072-a962-6c5462377c97)
+
+![image](https://github.com/Jeevithaelumalai/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118708245/22904e69-4f30-4f46-ba45-a3a5e2e47eb4)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
